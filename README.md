@@ -1,6 +1,6 @@
 # Bird Eater
 
-This project was made by Aiden James and Jacob Wieland for the UNCC 49 hour game jam. I decided to upload it here to show this project.
+This project was made by Aiden James and Jacob Wieland (https://github.com/SnakeEyes0723) for the UNCC 49 hour game jam. I decided to upload it here to show this project.
 
 ## Tools
 
