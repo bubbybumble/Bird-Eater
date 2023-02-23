@@ -1,0 +1,9 @@
+C:\Users\bumbb\Documents\BirdEater\.mono\temp\bin\ExportDebug\CONSUME.dll
+C:\Users\bumbb\Documents\BirdEater\.mono\temp\bin\ExportDebug\CONSUME.pdb
+C:\Users\bumbb\Documents\BirdEater\.mono\temp\obj\ExportDebug\CONSUME.csproj.AssemblyReference.cache
+C:\Users\bumbb\Documents\BirdEater\.mono\temp\obj\ExportDebug\CONSUME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bumbb\Documents\BirdEater\.mono\temp\obj\ExportDebug\CONSUME.AssemblyInfoInputs.cache
+C:\Users\bumbb\Documents\BirdEater\.mono\temp\obj\ExportDebug\CONSUME.AssemblyInfo.cs
+C:\Users\bumbb\Documents\BirdEater\.mono\temp\obj\ExportDebug\CONSUME.csproj.CoreCompileInputs.cache
+C:\Users\bumbb\Documents\BirdEater\.mono\temp\obj\ExportDebug\CONSUME.dll
+C:\Users\bumbb\Documents\BirdEater\.mono\temp\obj\ExportDebug\CONSUME.pdb

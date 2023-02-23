@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/chonp.ogg-f3c186733cb3ea82fcf3f2fb0168fe68.oggstr"
+
+[deps]
+
+source_file="res://chonp.ogg"
+dest_files=[ "res://.import/chonp.ogg-f3c186733cb3ea82fcf3f2fb0168fe68.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
